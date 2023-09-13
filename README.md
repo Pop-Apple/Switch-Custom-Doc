@@ -73,7 +73,7 @@ on your own micro SD card.
 See the directory tree below for more information.  
 After completing the above steps, insert the SD card into the Switch.  
 
-**[Atmosphère v1.5.5](./assets/files/Atmosphere.zip)**
+**[Atmosphère v1.5.5](https://github.com/Pop-Apple/Switch-Custom-Doc/raw/master/assets/files/Atmosphere.zip)**
 
 Developing by [Team-Naptune](https://github.com/Team-Neptune)
 
@@ -99,7 +99,7 @@ Developing by [Team-Naptune](https://github.com/Team-Neptune)
 
 Download the tool below to send a payload to Switch.
 
-**[TegraRcmGUI v2.6](./assets/files/TegraRcmGUI.zip)**
+**[TegraRcmGUI v2.6](https://github.com/Pop-Apple/Switch-Custom-Doc/raw/master/assets/files/TegraRcmGUI.zip)**
 
 Developing by [Eliboa](https://github.com/eliboa)
 
