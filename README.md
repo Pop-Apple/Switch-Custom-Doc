@@ -1,4 +1,4 @@
-# Switch Cheat Document
+# Switch Custom Document
 
 [![GitHub issues](https://img.shields.io/github/issues/Pop-Apple/Switch-Custom-Doc)](https://github.com/Pop-Apple/Switch-Custom-Doc/issues)
 [![license](https://img.shields.io/github/license/Pop-Apple/Switch-Custom-Doc)](https://github.com/Pop-Apple/Switch-Custom-Doc/blob/master/LICENSE)
